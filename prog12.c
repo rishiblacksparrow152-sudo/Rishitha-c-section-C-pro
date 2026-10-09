@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main()
+{
+int a=5,b=7;
+printf("addition=%d\n", a+b);
+printf("subraction=%d\n",a-b);
+printf("multiplication=%d\n",a*b);
+printf("division=%d\n",a/b);
+printf("modulus=%d",a%b);
+return 0;
+}
