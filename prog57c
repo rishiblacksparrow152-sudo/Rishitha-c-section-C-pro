@@ -1,0 +1,13 @@
+#include<stdio.h>
+int main()
+{
+FILE*fp;
+char ch;
+fputc(ch, fp2);
+}
+printf("file copied successfully");
+fclose(fp1);
+fclose(fp2);
+return 0;
+}
+

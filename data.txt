@@ -1,0 +1,3 @@
+Name:Rishi
+Age:18
+marks :80
